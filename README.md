@@ -1,6 +1,6 @@
 ### Hi there, I'm Brian! 👋🇰🇪
 
-I am an **Electrical & Telecommunication Engineering Student** and a **Python Developer** based in Kenya.
+I am an **Electrical -Engineering Student** and a **Python Developer** based in Kenya.
 I specialize in building automation tools, data scrapers, and GUI applications to solve real-world problems.
 
 - 🔭 I’m currently working on: **Desktop GUI Applications with CustomTkinter**
