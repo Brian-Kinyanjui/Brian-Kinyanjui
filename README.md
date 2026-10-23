@@ -1,20 +1,18 @@
 # Hi, I'm Brian Kinyanjui 👋
 
-I am a Cloud & DevOps Engineer based in Kenya. I specialize in building Python automation tools, managing Linux environments, and deploying scalable AWS infrastructure. My focus is on writing clean code and building systems that don't break.
+I am a Cloud & DevOps Engineer based in Kenya. I specialize in building Python automation tools, managing Linux environments, and configuring cloud infrastructure. My focus is on writing clean code and building resilient, automated systems.
 
-### 🛠️ Core Tech Stack
-*   **Languages:** Python, Bash
-*   **Infrastructure & Cloud:** AWS, Linux (Ubuntu/WSL2), Git
-*   **Tools:** VS Code, OBS Studio
-
-### 📺 Latest Technical Solutions
-I document my setups and automation scripts on YouTube. Here are my latest guides:
-*   [I Built a File Sorter in 20 Lines of Python (Automated Organization)](Link_To_Your_New_Video_Here)
-*   [How to Fix OBS Black Screen Display Capture on Windows](Link_To_Your_OBS_Video_Here)
-*   [How to Install Ubuntu Linux on Windows (WSL2 + VS Code)](Link_To_Your_Ubuntu_Video_Here)
+### 🛠️ Core Tech Stack & Tools
+*   **Languages:** Python, Bash Scripting
+*   **Infrastructure & OS:** Linux (Ubuntu/WSL2), Git/GitHub
+*   **Cloud Architecture:** AWS (Currently mastering Core Services & Networking)
+*   **Automation:** Scripting for system health, file management, and cron jobs
 
 ### 🚀 Featured Projects
-*   **Automated File Sorter:** A 20-line Python script utilizing `pathlib` and `shutil` to instantly categorize and sort messy directories. 
-*   **System Health Monitor (Coming Soon):** A Bash script running on a cron job to automatically log server disk, memory, and uptime metrics.
+*   **Automated File Sorter (Python):** A lightweight automation script utilizing `pathlib` and `shutil` to instantly categorize and sort unorganized directories, featuring a built-in dry-run safety mode.
+*   **System Health Monitor (Bash - In Progress):** An automated script running on a cron job to continuously log server disk space, memory usage, and uptime metrics.
+
+### 📺 Technical Documentation
+I believe in "proof over paper." I document my infrastructure builds, automation scripts, and technical problem-solving visually on my [YouTube Channel](https://www.youtube.com/@broxie00).
 
 📫 **Let's Connect:** [kinyanjuibrian1979@gmail.com](mailto:kinyanjuibrian1979@gmail.com)
